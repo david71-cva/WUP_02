@@ -25,6 +25,8 @@ veggy <- cabbages
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+After looking through all the helper files. I found that numercial Categorical was the best to deal with this because I am working with Numerical data VitC. With that Numerical categorical was the best to explain VitC by Cult. 
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
