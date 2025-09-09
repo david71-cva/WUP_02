@@ -61,6 +61,8 @@ The vaule of the Cult methods was showed. I saw that the vaule of Q1 pf c52 whic
 t.test(VitC~Cult,data=veggy)
 ```
 
+The chances of getting a result like this are 0.000000003405. When you get a p-value that is that small, I can see the two methods are different.
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
