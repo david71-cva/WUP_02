@@ -40,6 +40,7 @@ After looking through all the helper files. I found that numercial Categorical w
 ```{r}
 boxplot(VitC~Cult,data=veggy)
 ```
+This boxplot shows the amount of VitC is relying on the Cult method. What I saw is that Q1 of c52 is bigger than Q3 of c39. This means c52 is different than c39
 
 ### Numerical Descriptive Results
 
